@@ -20,4 +20,4 @@ What do *you* think?
 
 `if Goat = True`
 
-[Whatever go to my next page] ()
+[Whatever go to my next page] (https://github.com/SteveRuffino/INFOTC1600Challenge/blob/main/middle.md)
